@@ -8,12 +8,56 @@ I'm a Cloud Engineer, IT Support Official, and Community Engineer who currently 
 
 - 😊 Pronouns: He/Him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Engineering](https://altschoolafrica.com/schools/engineering) Class of Tinyuka 2024.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Python.
+- 🌱 I’m currently learning HTML, CSS, Javascript, and other necessary skills in the cloud stacks.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, Cloud Security Engineer, or Cloud Support Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailto007gregious@gmail.com.
+- 📫 You can [view my portfolio](#) and contact me by emailing [Sylvanus Ikoh](mailto007gregious@gmail.com).
 
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=007gregious&show_icons=true&include_all_commits=true&hide_border=true" alt="sylva's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=007gregious&langs_count=8&layout=compact&hide_border=true" alt="Sylva's GitHub stats" /> |
 | ------------- | ------------- |
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/007gregious/007gregious/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/007gregious/007gregious/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/007gregious/007gregious/output/github-snake.svg" />
+</picture>
+
+---
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
+</div>
+
+###
