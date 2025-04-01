@@ -26,9 +26,9 @@ I'm a Cloud Engineer, IT Support Official, and Community Engineer who currently 
   <img alt="github-snake" src="https://raw.githubusercontent.com/007gregious/007gregious/output/github-snake.svg" />
 </picture>
 
----
-
 ###
+
+## 💻 Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
